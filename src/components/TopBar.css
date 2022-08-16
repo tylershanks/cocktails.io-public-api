@@ -1,0 +1,9 @@
+.topBar {
+    background: #5bccf6;
+    height: min(20vw, 100px);
+  }
+
+.topBarTitle {
+    color: #030e12;
+    font-size: min(16vw, 90px);
+  }
