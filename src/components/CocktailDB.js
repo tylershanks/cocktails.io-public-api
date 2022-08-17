@@ -182,8 +182,9 @@ function GetCocktailFromApi() {
                     setLowerBoxContents(
                         <Container
                         sx={{minWidth:'220px',
-                            width:'60vw',
-                            maxWidth:'600px'}}
+                            width:'90vw',
+                            maxWidth:'650px'}}
+                            maxWidth={false}
                         >
                             <MapLowerCards
                                 value={value}
@@ -231,8 +232,9 @@ function GetCocktailFromApi() {
                     setLowerBoxContents(
                         <Container
                         sx={{minWidth:'220px',
-                            width:'60vw',
-                            maxWidth:'600px'}}
+                            width:'90vw',
+                            maxWidth:'650px'}}
+                            maxWidth={false}
                         >
                             <MapLowerCards
                                 value={value}
