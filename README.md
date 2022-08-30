@@ -50,5 +50,7 @@ This project stands out among the rest of my current projects because of the rea
       - Optional Alcohol
   - View multiple drinks on the same page and quickly load into one of the drinks ingredient and measurements. Also view instructions on how to craft that cocktail.
   
+  
+  # Screenshot
   ![image](https://user-images.githubusercontent.com/86684183/187352724-85db6e71-a267-4493-a6c2-c8297becafa4.png)
 
